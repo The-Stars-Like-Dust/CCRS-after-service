@@ -2,9 +2,9 @@ package top.TheStarsLikeDust.service.impl;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
+import top.TheStarsLikeDust.service.AlarmService;
 import top.theStarsLikeDust.generator.entity.Alarm;
 import top.theStarsLikeDust.generator.mapper.AlarmMapper;
-import top.theStarsLikeDust.generator.service.AlarmService;
 
 /**
  * @author 86175
